@@ -33,18 +33,22 @@ body {
 
 .red {
   background-color: red;
+  cursor: pointer;
 }
 
 .green {
   background-color: green;
+  cursor: pointer;
 }
 
 .blue {
   background-color: blue;
+  cursor: pointer;
 }
 
 .yellow {
   background-color: yellow;
+  cursor: pointer;
 }
 
 .pressed {
